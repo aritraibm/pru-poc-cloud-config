@@ -9,4 +9,4 @@ eureka:
 
 skill:
   service:
-    url: http://DEPARTMENT-SERVICE
+    url: http://SKILL-SERVICE
