@@ -7,6 +7,6 @@ eureka:
   instance:
     hostname: localhost
 
-department:
+skill:
   service:
     url: http://DEPARTMENT-SERVICE
